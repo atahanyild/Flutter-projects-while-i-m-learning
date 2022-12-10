@@ -1,16 +1,6 @@
 # basiclistmanager1
 
-A new Flutter project.
+A basic project has no purpose but learning.
+I started to learn GetX to State Management thanks to this app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1670426453](https://user-images.githubusercontent.com/111663792/206878935-8ea3d8da-2730-40c6-aee4-4313e2b304ad.png)
